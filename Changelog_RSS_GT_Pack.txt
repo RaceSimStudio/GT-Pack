@@ -1,0 +1,228 @@
+RSS GT Pack - V5 to V6 Changelog - 24 December 2020
+	Installation: We strongly recommend a fresh installation of the GT pack rather than an overwrite.
+
+Custom Shaders Patch (CSP) is optional and can be used to provide some lighting effects on the vehicles.
+Blip the throttle during downshifts under deceleration. 
+Steering rotation is 450 degrees for all GT Pack cars.
+
+//**RSS Ferruccio 57 V12 - V1 to V2 Changelog - 24 December 2020**// 
+	- Visuals
+		- (CSP) Car headlights fixed
+		- Car name and short-name updated in race UI
+		- Showroom car enter and exit animation resolved
+		- Removed 2 LOD now 4 instead of 6 providing increased performance
+		- Improved LOD_B Cockpit LR mesh now much higher quality at distance
+		- Fixed holes around the drivers and passenger windows / gaps
+		- (CSP) Added interior lighting, real mirrors, emissive brake lights 
+		- All around improvements to flames, cameras, graphical exposure values
+		- Driver preload gearshift update
+		- Brake disc glow correction
+		- Digital display items moved to prevent z-fighting on some tracks
+		- Windscreen wiper vibrations on movement revised
+
+
+//**RSS Ferruccio 55 V12 - V3 to V4 Changelog - 24 December 2020**//
+	- Visuals
+		- (CSP) Car headlights fixed 
+		- Car name and short-name updated in race UI
+		- All around improvements to flames, cameras, graphical exposure values
+		- (CSP) Added interior lighting, real mirrors, emissive brake lights 
+		- Gaps around the driver and passenger door frames fixed and smoothed more
+		- Driver preload gearshift update
+		- Brake disc glow correction
+		- Windscreen wiper vibrations on movement revised
+	
+	- Sounds
+		- New engine sounds. Ferruccio 57 V12 sounds remain the same for variation 
+		
+	
+//**RSS GT Lanzo V12 - V2 to V3 Changelog - 24 December 2020**//
+	- Visuals
+		- (CSP) Car headlights fixed
+		- Car name and short-name updated in race UI
+		- All around improvements to flames, cameras, graphical exposure values
+		- (CSP) Added interior lighting, real mirrors, emissive brake lights 
+		- Base setup height increased to pass minimum height rules
+		- Driver preload gearshift update
+		- Brake disc glow correction
+		- Windscreen wiper vibrations on movement revised
+		- Steering wheel texture improvements 
+		- (CSP) Interior dashboard improved textures added to the configuration
+
+		
+//**RSS GT Shadow V8 - V2 to V3 Changelog - 24 December 2020**//
+	- Visuals
+		- Car name and short-name updated in race UI
+		- Reverse gear texture changed to 'r'
+		- All around improvements to flames, cameras, graphical exposure values
+		- (CSP) Added interior lighting, real mirrors, emissive brake lights 
+		- Driver preload gearshift update
+		- Brake disc glow correction
+		- Windscreen wiper vibrations on movement revised
+		- Interior dashboard and wheel textures greatly improved 
+		- (CSP) Interior dashboard and wheel improved textures added to the configuration
+		- Fixed various 3D holes and gaps through the vehicle 
+
+//**RSS GT Tornado V12 - V3 to V4 Changelog - 24 December 2020**//
+	- Visuals
+		- (CSP) Car headlights fixed
+		- Car name and short-name updated in race UI
+		- (CSP) Wiper animations fixed
+		- Reverse gear texture changed to 'r'
+		- Steering wheel updated, more authentic shape 
+		- All around improvements to flames, cameras, graphical exposure values
+		- (CSP) Added interior lighting, real mirrors, emissive brake lights 
+		- Driver preload gearshift update
+		- Brake disc glow correction
+		- Windscreen wiper vibrations on movement revised
+		- (CSP) Interior dashboard and wheel improved textures added to the configuration
+
+		
+//**RSS GT Vortex v10 - V3 to V4 Changelog - 24 December 2020**//
+	- Visuals
+		- (CSP) Car headlights fixed
+		- Car name and short-name updated in race UI
+		- All around improvements to flames, cameras, graphical exposure values
+		- (CSP) Added interior lighting, real mirrors, emissive brake lights 
+		- Driver preload gearshift update
+		- Brake disc glow correction
+		- Digital display items moved to prevent z-fighting on some tracks
+		- Windscreen wiper vibrations on movement revised
+
+
+//---------------------------------------------------------------------------//
+//--------------------------------PREVIOUS-----------------------------------//
+//---------------------------------------------------------------------------//
+
+RSS GT Pack - V4 to V5 Changelog - 09 July 2018
+New - RSS GT Ferruccio 57 v12 added
+
+RSS Ferruccio 55 v12 - V2 to V3 Changelog - 09 July 2018
+
+- Visuals
+		- Shifting animations have now same timings as the other cars
+- Physics
+		- Updated default setup
+		- New tyre physics
+		- Improved aerodynamics
+		- Tweaked engine torque curve
+		- Adjusted steering arm
+		- Steering ratio has been lowered
+		- Corrected fuel tank position
+		- Improved AI physics
+		
+RSS GT Lanzo v12 - V1 to V2 Changelog - 09 July 2018
+
+- Visuals
+		- Fixed LOD B rear grille issue
+		- Added glow to gear indicator to match leds
+		- Shifting animations have now same timings as the other cars
+- Physics
+		- New tyre physics
+		- Updated default setup
+		- Improved aerodynamics
+		- Corrected fuel tank position
+		- Improved AI physics
+		
+RSS GT Shadow v8 - V1 to V2 Changelog - 09 July 2018
+
+- Visuals
+		- Fixed display lighting
+		- Fixed plaque transparency issue
+		- Steering wheel decals transparency fixed
+		- Changeable rollcage color + detail shader fix
+		- Fixed LOD A engine geometry
+		- Animated rear suspension working
+		- Interior metal panels detail texture added
+		- Mini LED panel leds fixed to match revs
+		- Main display RPM bars matched to actual engine revs
+		- Improved visibility of display fonts with no PP
+		- Shifting animations have now same timings as the other cars
+- Physics
+		- Updated default setup
+		- New tyre physics
+		- Improved aerodynamics
+		- Tweaked engine torque curve
+		- Corrected fuel tank position
+		- Improved AI physics
+
+RSS GT Tornado v12 - V2 to V3 Changelog - 09 July 2018
+
+- Visuals
+		- Shifting animations have now same timings as the other cars
+		- Fixes and improvements in LODs and shaders
+- Physics
+		- Updated default setup
+		- New tyre physics
+		- Improved aerodynamics
+		- New suspension geometries
+		- Corrected fuel tank position
+		- Improved AI physics
+		
+RSS GT Vortex v10 - V2 to V3 Changelog - 09 July 2018
+
+- Visuals
+		- Shifting animations have now same timings as the other cars
+		- Fixed plaque issue
+- Physics
+		- Updated default setup
+		- New tyre physics
+		- Improved aerodynamics
+		- Tweaked engine torque curve
+		- Steering ratio has been increased
+		- Corrected fuel tank position
+		- Improved AI physics
+
+
+RSS GT Pack - V3 to V4 Changelog - 06 May 2018
+New - RSS GT Shadow v8 added
+
+RSS GT Pack - V2 to V3 Changelog - 03 March 2018
+New - RSS GT Lanzo v12 added
+
+
+RSS GT Pack - V1 to V2 Changelog - 13 January 2018
+
+FIXED - Interior and exterior camera exposure adjusted for all cars 
+FIXED - Exhaust flame burn time and large flame probability modified for all cars
+FIXED - Driver head movement improved for all cars 
+FIXED - AC launcher plaque issue fixed 
+FIXED - Vortex default and dash cam view heights raised 
+FIXED - Vortex speed alignment from one to three digit speeds corrected on display
+FIXED - Vortex animations updated 
+FIXED - Vortex new KN5 and improved settings 
+FIXED - Vortex / Tornado flash lights settings added to match the Ferruccio 55
+FIXED - Vortex cm_lights json updated by Ilja
+FIXED - Vortex car.ini graphical offset / visuals of suspension now match reference more 
+FIXED - Tornado skinned mesh bug is now fixed 
+FIXED - Tornado issue of seeing no rear wing struts through the rear window is fixed 
+FIXED - Tornado dash cam view height raised
+FIXED - Tornado driver animations updated and driver3d.ini fixed 
+FIXED - Tornado rear lights updated and optimised
+FIXED - Tornado rear wing issues fixed with z fighting in all lod and optimised
+FIXED - Tornado digital_instruments.ini script updated
+FIXED - Tornado new dashboard AO maps created and shaders adjusted 
+FIXED - Tornado internal metals adjusted 
+FIXED - Ferruccio 55 showroom cameras added 
+
+New in Tornado driver stopwatch added with / lastlap / currentlap / time
+New in Tornado new driver delta added to the dashboard as requested on RaceDepartment
+New in Ferruccio 55 - external logos to the outside mesh of the car, updating all car kn5 files with the new settings
+New in Ferruccio 55 - updated and optimised kn5/lod files 
+New in Ferruccio 55 - new cosmetic details / fuel filler / side skirts 
+New in Ferruccio 55 - car's reflection values updated 
+New in Ferruccio 55 - all textures inspected and optimised: passed as final 
+New in Ferruccio 55 - all skins/liveries restructured and updated 
+New in Ferruccio 55 - new default tires added 
+New in Ferruccio 55 - new default rims added 
+New in Ferruccio 55 - optimised Content Manager UI files / lower compression
+
+PHYSICS - Moved brake bias forward by 4% in all cars
+
+SOUNDS - Tornado Shortened gear change sound effect 
+SOUNDS - Increased interior tyre volume for all cars 
+SOUNDS - Exterior tyre skid is now audible from a greater distance for all cars 
+SOUNDS - Rebalanced brake sounds for all cars
+
+Known items/not issues: KPH is a static decal on the Vortex V10's digital display, 
+regardless of whether KPH or MPH is used in the game settings. 
